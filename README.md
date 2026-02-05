@@ -34,5 +34,5 @@ Success Metrics
 - Optional: team collaboration efficiency
 
 Loom / Figma Links
-- Loom demo: https://www.loom.com/share/c923261ba1b645e2b0aacb64f2dfbe1d
+- Loom Video: https://www.loom.com/share/c923261ba1b645e2b0aacb64f2dfbe1d
 - Figma: https://blanch-dove-80182469.figma.site
